@@ -7,7 +7,7 @@ CHANNEL_USERNAME = '@Earnwithjass1'  # Replace with your channel's username
 CHANNEL_LINK = 'https://t.me/+WxzELa3XPZAwOTQ1'  # Replace with your channel's invite link
 
 can_show = False
-admins = ['GROW_MORE015']
+admins = ['ITS_JASS_TOP']
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
