@@ -4,7 +4,7 @@ from random import choice
 import logging
 
 CHANNEL_USERNAME = '@Earnwithjass1'  # Replace with your channel's username
-CHANNEL_LINK = 'https://t.me/+HVz1FO4q6K9mYWE1'  # Replace with your channel's invite link
+CHANNEL_LINK = 'https://t.me/+WxzELa3XPZAwOTQ1'  # Replace with your channel's invite link
 
 can_show = False
 admins = ['GROW_MORE015']
