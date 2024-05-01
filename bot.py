@@ -13,7 +13,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 user_chat_ids = set()
 
-image_path = 'static/banner.jpeg'
+image_path = 'https://telegra.ph/file/05f96be1c4803487f1507.jpg'
 
 def Random_choice():
     option = ['𝐁𝐈𝐆📈','𝐒𝐌𝐀𝐋𝐋📉']
